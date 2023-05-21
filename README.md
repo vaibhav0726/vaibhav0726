@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![vaibhav0726's GitHub | Stats](https://stats.quine.sh/vaibhav0726/github?theme=light)](https://quine.sh)
+<!-- [![vaibhav0726's GitHub | Stats](https://stats.quine.sh/vaibhav0726/github?theme=light)](https://quine.sh) -->
 [![vaibhav0726's GitHub | Languages Over Time](https://stats.quine.sh/vaibhav0726/languages-over-time?theme=light)](https://quine.sh)
